@@ -37,8 +37,8 @@ private:
 
 public:
     // Class definitions
-    static const uint16_t VID = 0x10C4;                           // USB vendor ID
-    static const uint16_t PID = 0x8CDF;                           // USB product ID
+    static const uint16_t VID = 0x10C4;                          // USB vendor ID
+    static const uint16_t PID = 0x8CDF;                          // USB product ID
     static const int SUCCESS = CP2130::SUCCESS;                  // Returned by open() if successful
     static const int ERROR_INIT = CP2130::ERROR_INIT;            // Returned by open() in case of a libusb initialization failure
     static const int ERROR_NOT_FOUND = CP2130::ERROR_NOT_FOUND;  // Returned by open() if the device was not found
