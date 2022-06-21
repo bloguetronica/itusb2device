@@ -1,4 +1,4 @@
-/* ITUSB2 device class - Version 1.2.1
+/* ITUSB2 device class - Version 1.2.2
    Requires CP2130 class version 1.1.0 or later
    Copyright (c) 2021-2022 Samuel Lourenço
 
